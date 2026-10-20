@@ -4,14 +4,6 @@ Program ini merupakan program inventaris barang dengan paradigma **Object-Orient
 
 ---
 
-### 👤 Identitas Mahasiswa
-- **Nama:** Egi Nugraha  
-- **NIM:** 2802597854  
-- **Mata Kuliah:** Data Structures and Algorithm Analysis  
-- **Kode Mata Kuliah:** COSC6025036
-
----
-
 ### 🚀 Cara Menjalankan Program
 
 1. Clone source code dari repository
@@ -26,5 +18,4 @@ javac *.java
 ```bash
 java InventarisApp
 ```
-
-Terima kasih 🙏🏻
+Maintained by [Sabio](https://sabio.co.id/)
